@@ -19,8 +19,49 @@ console.log(studentName);*/
 console.log(typeof num);*/
 
 /*let str = "I am learning JavaScript";
-console.log(typeof str);
+console.log(typeof str);*/
 
-let ismarried = true;
-console.log(typeof ismarried);
+/*let ismarried = true;
+console.log(typeof ismarried);*/
+
+//4. Swap value of two variables without using a third variable.
+
+/*let a = 5;
+
+let b = 2;
+
+ a+= b;
+ b =  a-b;
+ console.log("b = ", b);*/
+ 
+/*b+= a;
+a= b-a;
+console.log("a =",a);*/
+
+
+//6. Store a user's age in a variable and check if they are adult.//
+
+/*let age = 16;
+
+if(age >= 18){
+    console.log("adult")
+} else{
+    console.log("minors")
+};*/
+
+//7. Convert a number to a string without using String()//
+
+let num = 25;
+num = 25 + " ";
+console.log(num);
+let b =  typeof num;
+console.log(b);
+
+
+
+ 
+
+
+
+ 
 

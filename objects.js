@@ -52,7 +52,7 @@ console.log(record["car"]); //bracket notation*/
 
   //5.Add a method inside an object and call it.
 
-  let student = {
+  /*let student = {
     name : "vanshika kathpal",
     age : 22,
     marks : 92,
@@ -67,4 +67,12 @@ console.log(record["car"]); //bracket notation*/
         }
   };
 
-  console.log(student.checkstatus());
+  console.log(student.checkstatus());*/
+
+/*6 Create a person object with properties : name, age & city . then 
+a) log each property as : value of "name", property is "manas" using loop
+b) add a new property called email to the person object 
+c) delete "city" property from person object.*/
+
+/*7
+36
