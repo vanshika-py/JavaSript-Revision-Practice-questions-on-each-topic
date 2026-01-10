@@ -51,11 +51,29 @@ if(age >= 18){
 
 //7. Convert a number to a string without using String()//
 
-let num = 25;
+/*let num = 25;
 num = 25 + " ";
-console.log(num);
-let b =  typeof num;
-console.log(b);
+console.log(typeof num);*/
+
+//8. CHECK THE TYPE OF NULL AND TELL THE RESULT//
+
+/*let a = null;
+console.log(typeof null);*/
+
+//typeof null is object because it's an bug in javascript that can't be fixed due to backward compatibilty//
+
+//9 Create a variable name, salary and don't assign a  value & print it.
+
+/*let salary;
+console.log(salary);
+
+/*it gives undefined as we have declared the variable and did't assign a value , that's undefined, if we don't declared the variable it will be notdefined*/
+
+//10 Declare a variable using let, modify it inside a block and observe behaviour//
+
+
+
+
 
 
 
