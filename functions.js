@@ -33,7 +33,7 @@ greet();*/
     } else {
         console.log("odd")
     }
-}
+}*/
 
 //check(25);//
 
@@ -41,4 +41,43 @@ greet();*/
 
 
 //5. Convert a normal function to an arrow function//
+
+/*const Hello = () => {
+    console.log("My World")
+}
+Hello();*/
+
+//6.Write function that returns with default parameters.//
+
+/*function subtract(a,b){
+    console.log(a-b)
+}
+
+subtract(25,20);
+
+subtract(9250,6550);*/
+
+//7. Create a function that returns the longest of two strings//
+
+let v = 100;
+let s = 800;
+
+function str(v,s){
+    if(v>s){
+        console.log("v")
+    } else if(s>v){
+        console.log("s")
+    }
+}
+
+
+str(v,s);
+
+//8.Make a function that returns the first character of any string//
+
+let name = "Vanshika Kathpal";
+
+function 
+
+
 
