@@ -59,7 +59,7 @@ subtract(9250,6550);*/
 
 //7. Create a function that returns the longest of two strings//
 
-let v = 100;
+/*let v = 100;
 let s = 800;
 
 function str(v,s){
@@ -68,16 +68,87 @@ function str(v,s){
     } else if(s>v){
         console.log("s")
     }
+}*/
+
+//8.Make a function that returns the first character of any string.//
+
+
+/*let name = "Learning JavaScript";
+
+function char(str){
+    let nm = str.charAt(0)
+    console.log(nm)
+}
+
+char(name);*/
+
+
+//9.Create a function that takes an array And returns its length.//
+
+/*let details = ["Vanshika", "Learning Frontend", 2004];
+
+function sap(arr){
+   return arr.length
 }
 
 
-str(v,s);
+console.log(sap(details));*/
 
-//8.Make a function that returns the first character of any string//
 
-let name = "Vanshika Kathpal";
+//10. Create a function that returns the last digit of a number//
 
-function 
+let contactNumber = 7206986004;
+
+function number(cont){
+    let n = number.charAt(-1)
+    console.log(n)
+}
+
+number(contactNumber);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
