@@ -75,4 +75,3 @@ b) add a new property called email to the person object
 c) delete "city" property from person object.*/
 
 /*7
-36

@@ -1,5 +1,5 @@
-/*Beginner:
-1.create a function which adds who numbers.*/
+//-------------------------Basic----------------------------//
+//1.create a function which adds who numbers.*/
 
 /*function sum(a,b){
     console.log(a+b)
@@ -91,64 +91,36 @@ function sap(arr){
    return arr.length
 }
 
-
 console.log(sap(details));*/
-
 
 //10. Create a function that returns the last digit of a number//
 
-let contactNumber = 7206986004;
 
-function number(cont){
-    let n = number.charAt(-1)
-    console.log(n)
+/*let number = 123456789;
+
+function num (n) {
+    var lastdigit = n.toString().slice(-1)
+    console.log(lastdigit);
 }
 
-number(contactNumber);
+
+num(number);*/
 
 
 
 
+ //--------------------Intermediate Level-------------------------//
 
 
+ //11. Write a function to count vowels in a string//
 
 
+ let goal = 'I am in Currently in my Frontend Development Journey';
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ function vowel(st){
+    if(vowel === 'a'){
+        console.log('a');
+    }
+}
+ 
+    vowel(goal);
