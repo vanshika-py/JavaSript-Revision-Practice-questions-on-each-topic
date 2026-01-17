@@ -115,7 +115,7 @@ num(number);*/
  //11. Write a function to count vowels in a string//
 
 
- let goal = 'I am in Currently in my Frontend Development Journey';
+ /*let goal = 'I am in Currently in my Frontend Development Journey';
 
  function vowel(st){
     if(vowel === 'a'){
@@ -123,4 +123,31 @@ num(number);*/
     }
 }
  
-    vowel(goal);
+    vowel(goal);*/
+
+
+//12. Create a function that returns true if a number is prime.//
+
+
+function CheckType(num) {
+    if(num% 2 === 0){
+        console.log("true, Number is Prime")
+    } else{
+            console.log("false,Number is not Prime")
+        }
+    }
+
+CheckType(11);
+
+
+//13  Create a function that removes duplicates from an Array//
+
+/*let numbers = [5, 4, 2, 1, 9, 10, 5, 4, 1, 0];
+
+
+function removeDuplicates(num){
+    array === num.indexOf(Array)
+    console.log(num)
+}
+
+removeDuplicates(numbers);*/
