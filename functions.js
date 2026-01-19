@@ -129,7 +129,7 @@ num(number);*/
 //12. Create a function that returns true if a number is prime.//
 
 
-function CheckType(num) {
+/*function CheckType(num) {
     if(num% 2 === 0){
         console.log("true, Number is Prime")
     } else{
@@ -137,14 +137,14 @@ function CheckType(num) {
         }
     }
 
-CheckType(11);
+CheckType(11);*/
 
 
 //13  Create a function that removes duplicates from an Array//
 
 /*let numbers = [5, 4, 2, 1, 9, 10, 5, 4, 1, 0];
 
-
+ +
 function removeDuplicates(num){
     array === num.indexOf(Array)
     console.log(num)
